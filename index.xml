@@ -111,15 +111,15 @@ line 3 of code
 &lt;tbody>
 &lt;tr>
 &lt;td>data&lt;/td>
-&lt;td>path to data files to supply the data that will be passed into templates.&lt;/td>
+&lt;td>data dog&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>engine&lt;/td>
-&lt;td>engine to be used for processing templates. Handlebars is the default.&lt;/td>
+&lt;td>engineering&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>ext&lt;/td>
-&lt;td>extension to be used for dest files.&lt;/td>
+&lt;td>extension&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -134,15 +134,15 @@ line 3 of code
 &lt;tbody>
 &lt;tr>
 &lt;td style="text-align:right">data&lt;/td>
-&lt;td style="text-align:right">path to data files to supply the data that will be passed into templates.&lt;/td>
+&lt;td style="text-align:right">data dog&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:right">engine&lt;/td>
-&lt;td style="text-align:right">engine to be used for processing templates. Handlebars is the default.&lt;/td>
+&lt;td style="text-align:right">engineering&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:right">ext&lt;/td>
-&lt;td style="text-align:right">extension to be used for dest files.&lt;/td>
+&lt;td style="text-align:right">extension&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
